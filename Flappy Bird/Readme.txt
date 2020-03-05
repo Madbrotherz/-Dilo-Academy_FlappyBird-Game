@@ -1,0 +1,1 @@
+>Terjadi BUG pada saat Bird menembakkan Bullet. Point jadi tidak bertambah setiap kali Bird melewati Pipe.
